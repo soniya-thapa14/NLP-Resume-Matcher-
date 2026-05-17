@@ -79,3 +79,7 @@ pip install streamlit PyPDF2 nltk scikit-learn
 - **NLTK** 
 - **Scikit-learn** — TF-IDF vectorization and cosine similarity
 
+---
+
+## Project Demo - https://drive.google.com/file/d/1AOqpMw8M1F8lWvgdk44PmjrKrmfgUEvO/view?usp=sharing
+
