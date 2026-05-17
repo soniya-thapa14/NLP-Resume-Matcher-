@@ -30,7 +30,7 @@ It converts both documents into numerical vectors using TF-IDF (Term Frequency-I
 **1. Clone the repository**
 ```bash
 git clone https://github.com/soniya-thapa/NLP-Resume-Matcher-.git
-cd NLP-Resume-Matcher
+cd NLP-Resume-Matcher-
 ```
 
 **2. Install dependencies**
