@@ -1,9 +1,9 @@
-##Resume Matcher
+## Resume Matcher
 
 A Python web application that compares your resume against a job description and gives you a match score using NLP techniques.
 
 ------
-##What It Does
+## What It Does
 
 - Upload your resume as a PDF
 - Paste any job description
